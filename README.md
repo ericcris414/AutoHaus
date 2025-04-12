@@ -5,6 +5,7 @@ Este aplicativo faz parte de um sistema completo de automação residencial. Com
 ## Getting Started
 
 🔧 Funcionalidades do App
+
 Controle remoto de toldo e janela em tempo real
 
 Interface intuitiva e responsiva desenvolvida em FlutterFlow
