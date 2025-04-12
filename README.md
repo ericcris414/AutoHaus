@@ -5,19 +5,19 @@ Este aplicativo faz parte de um sistema completo de automação residencial. Com
 ## Getting Started
 
 🔧 Funcionalidades do App
-
 Controle remoto de toldo e janela em tempo real
 
-Interface intuitiva e responsiva desenvolvida em FlutterFlow
+Interface moderna e responsiva desenvolvida em FlutterFlow
 
-Sincronização com Firebase para armazenar e monitorar o estado dos dispositivos
+Comunicação direta com o ESP32 através de um servidor local (caseiro)
 
-Compatível com comandos de voz via Espalexa (Alexa)
+Compatibilidade com comandos de voz via Espalexa (Alexa)
 
 Sistema eficiente, funcional e acessível
 
 🌐 Conectividade
-O aplicativo se comunica com o ESP32 por meio do Firebase Realtime Database, permitindo o controle do sistema de qualquer lugar com acesso à internet.
+O aplicativo se comunica com o ESP32 por meio de um servidor próprio hospedado localmente, permitindo o controle do sistema de forma estável e segura dentro da rede do usuário.
 
 💡 Objetivo do Projeto
-Nosso foco é desenvolver soluções acessíveis de automação residencial, unindo praticidade, inovação e sustentabilidade. Este projeto foi pensado para facilitar o dia a dia, proporcionando mais conforto e controle sobre o ambiente.
+Nosso objetivo é criar soluções práticas e acessíveis em automação residencial, promovendo mais conforto, eficiência e modernidade no dia a dia.
+
